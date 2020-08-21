@@ -1,6 +1,10 @@
 # Mini_Word_Embeddings
 This repo contains the colab notebook to train mini word embedding model
 
+<img src="https://cdn-images-1.medium.com/max/1200/1*7UfFNLo0BKf2TrcV6koWtw.png">
+<img src="https://cdn-images-1.medium.com/max/800/1*cR2EQv3ck6S2JEa8PSB2gg.png">
+
+<br />
 
 <img src="https://cdn-images-1.medium.com/max/800/1*pDeswCr7eBhEDtiywMkAqQ.png">
 <img src="https://cdn-images-1.medium.com/max/800/1*SANI-0E8qSTHzGHg4HHtNA.png">
