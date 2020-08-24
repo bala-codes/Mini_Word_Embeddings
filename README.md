@@ -5,9 +5,12 @@
 <br />
 
 
-Open the Notebook here  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Mini_Word_Embeddings/blob/master/codes/Mini_Word_Embedding.ipynb )
+Colab Notebook available here -->  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Mini_Word_Embeddings/blob/master/codes/Mini_Word_Embedding.ipynb )
 
-Open the Notebook in Kaggle [![Open In Kaggle](https://www.kaggle.com/static/images/site-logo.png)(https://www.kaggle.com/balakrishcodes/create-mini-word-embedding-from-scratch-in-pytorch)]
+Kaggle Notebook available here --> [Kaggle](https://www.kaggle.com/balakrishcodes/create-mini-word-embedding-from-scratch-in-pytorch)
+
+[![Open In Kaggle]((https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/balakrishcodes/create-mini-word-embedding-from-scratch-in-pytorch)
+
 
 <br />
 
