@@ -4,6 +4,10 @@
 
 <br />
 
+
+Open the Notebook here [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/bala-codes/Mini_Word_Embeddings/blob/master/codes/Mini_Word_Embedding.ipynb )
+
+
 <img src="https://cdn-images-1.medium.com/max/1200/1*7UfFNLo0BKf2TrcV6koWtw.png">
 <img src="https://cdn-images-1.medium.com/max/800/1*cR2EQv3ck6S2JEa8PSB2gg.png">
 
