@@ -9,9 +9,6 @@ Colab Notebook available here -->  [![Open In Colab](https://colab.research.goog
 
 Kaggle Notebook available here --> [Kaggle](https://www.kaggle.com/balakrishcodes/create-mini-word-embedding-from-scratch-in-pytorch)
 
-[![Open In Kaggle]((https://www.kaggle.com/static/images/site-logo.png)](https://www.kaggle.com/balakrishcodes/create-mini-word-embedding-from-scratch-in-pytorch)
-
-
 <br />
 
 <img src="https://cdn-images-1.medium.com/max/1200/1*7UfFNLo0BKf2TrcV6koWtw.png">
