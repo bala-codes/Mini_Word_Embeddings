@@ -1,6 +1,6 @@
 # Mini Word Embeddings
 # This repo contains the colab notebook to train a mini word embedding model using Pytorch Framework.
-# This Notebook was written in accordance with my blog post on medium, feel free to read it in this link [Link](https://medium.com/towards-artificial-intelligence/create-your-own-mini-word-embedding-from-scratch-c7b32bd84f8e) to get the complete essence of it.
+# This Notebook was written in accordance with my blog post on medium, feel free to read it in this [Link](https://medium.com/towards-artificial-intelligence/create-your-own-mini-word-embedding-from-scratch-c7b32bd84f8e) to get the complete essence of it.
 
 <br />
 
